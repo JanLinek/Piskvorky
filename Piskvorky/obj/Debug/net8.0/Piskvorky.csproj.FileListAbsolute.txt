@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\bin\Debug\net8.0\Piskvorky.exe
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\bin\Debug\net8.0\Piskvorky.deps.json
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\bin\Debug\net8.0\Piskvorky.runtimeconfig.json
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\bin\Debug\net8.0\Piskvorky.dll
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\bin\Debug\net8.0\Piskvorky.pdb
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\obj\Debug\net8.0\Piskvorky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\obj\Debug\net8.0\Piskvorky.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\obj\Debug\net8.0\Piskvorky.AssemblyInfo.cs
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\obj\Debug\net8.0\Piskvorky.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\obj\Debug\net8.0\Piskvorky.dll
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\obj\Debug\net8.0\refint\Piskvorky.dll
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\obj\Debug\net8.0\Piskvorky.pdb
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\obj\Debug\net8.0\Piskvorky.genruntimeconfig.cache
+C:\Users\pc\source\repos\Piskvorky\Piskvorky\obj\Debug\net8.0\ref\Piskvorky.dll
